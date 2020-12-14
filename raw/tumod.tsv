@@ -1,4 +1,4 @@
-TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
+ID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 8958	Xipaya	ABLATIVE POSTPOSITION				0		
 9077	Juruna	ABLATIVE POSTPOSITION				0		
 9196	Karo (Arara)	ABLATIVE POSTPOSITION				0		
@@ -37,10 +37,10 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 13718	Kayabí	ABLATIVE POSTPOSITION				0		
 13837	Araweté	ABLATIVE POSTPOSITION	hɨ	hɨ	h ɨ	2		
 14075	Guajá	ABLATIVE POSTPOSITION				0		
-14313	Emerillon (Tekó)	ABLATIVE POSTPOSITION	wi	wi (dʒuwi)	w i	0		
+14313	Emerillon (Tekó)	ABLATIVE POSTPOSITION	wi	wi (dʒuwi)	w i	2		
 14432	Wayampí	ABLATIVE POSTPOSITION				0		
 14551	Zo'e	ABLATIVE POSTPOSITION				0		
-14670	(Urubu) Ka'apor	ABLATIVE POSTPOSITION	ŋi	ŋi	ŋ i	0		
+14670	(Urubu) Ka'apor	ABLATIVE POSTPOSITION	ŋi	ŋi	ŋ i	157		
 14789	Anambé	ABLATIVE POSTPOSITION				0		
 15027	Kamayura	ABLATIVE POSTPOSITION				0		
 15146	Asurini do Xingu	ABLATIVE POSTPOSITION				0		
@@ -328,7 +328,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17411	Cocama-Cocamilla	ALSO				0		
 17579	Avá-Canoeiro	ALSO				0		
 17677	Suruí-Paiter	ALSO				0		
-17794	Tapiete	ALSO	we	we	w e	0		
+17794	Tapiete	ALSO	we	we	w e	26		
 18646	Tuparí	ALSO	eporet	ke / eporet	e p o r e t	85	12	
 8963	Xipaya	ALWAYS				0		
 9082	Juruna	ALWAYS				0		
@@ -396,7 +396,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17412	Cocama-Cocamilla	ALWAYS				0		
 17580	Avá-Canoeiro	ALWAYS				0		
 17678	Suruí-Paiter	ALWAYS				0		
-17796	Tapiete	ALWAYS	jepi	jepi	j e p i	0		
+17796	Tapiete	ALWAYS	jepi	jepi	j e p i	160		
 8964	Xipaya	ATENUATIVE?				0		
 9083	Juruna	ATENUATIVE?				0		
 9202	Karo (Arara)	ATENUATIVE?				0		
@@ -452,7 +452,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17056	Chiripá (Ñandeva / Avá-Guarani)	ATENUATIVE?				0		
 17175	Apapokuva of Nimuendajú	ATENUATIVE?				0		
 17413	Cocama-Cocamilla	ATENUATIVE?				0		
-17531	Avá-Canoeiro	ATENUATIVE?	mili	mili	m i l i	0		
+17531	Avá-Canoeiro	ATENUATIVE?	mili	mili	m i l i	165		
 17679	Suruí-Paiter	ATENUATIVE?				0		
 17835	Tapiete	ATENUATIVE?				0		
 8965	Xipaya	AUGMENTATIVE				0		
@@ -468,7 +468,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 10274	Mundurukú	AUGMENTATIVE				0		
 10393	Kuruaya	AUGMENTATIVE				0		
 10512	Cinta-Larga	AUGMENTATIVE				0		
-10642	Gavião (Digüt)	AUGMENTATIVE	póoj	póoj	p ó o j	0		
+10642	Gavião (Digüt)	AUGMENTATIVE	póoj	póoj	p ó o j	166		
 10750	Mondé	AUGMENTATIVE				0		
 10869	Aruá	AUGMENTATIVE				0		
 11345	Zoró	AUGMENTATIVE				0		
@@ -521,7 +521,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17414	Cocama-Cocamilla	AUGMENTATIVE	tu	tu / tua / watsu	t u	74		
 17538	Avá-Canoeiro	AUGMENTATIVE	uʁu	uʁu	u ʁ u	74		
 17680	Suruí-Paiter	AUGMENTATIVE				0		
-17766	Tapiete	AUGMENTATIVE	kwe	kwe	kw e	0		
+17766	Tapiete	AUGMENTATIVE	kwe	kwe	kw e	167		
 8966	Xipaya	BIG				0		
 9085	Juruna	BIG				0		
 9204	Karo (Arara)	BIG				0		
@@ -530,8 +530,8 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 9680	Makurap	BIG	tʃato	tʃato	tʃ a t o	75	22	
 9799	Wayoró	BIG	akara	akara	a k a r a	89	20	
 9918	Tuparí	BIG	erat	erat	e r a t	90	21	
-10037	Akuntsu	BIG	atʃo	atʃo	a tʃ o	75	22	
-10162	Mekens (Sakurabiat)	BIG	aso	aso	a s o	75	22	
+10037	Akuntsu	BIG	atʃo	atʃo	a tʃ o	1	22	
+10162	Mekens (Sakurabiat)	BIG	aso	aso	a s o	1	22	
 10275	Mundurukú	BIG	ʃiri	ʃiri	ʃ i r i	112		
 10394	Kuruaya	BIG				0		
 10513	Cinta-Larga	BIG				0		
@@ -563,7 +563,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 14321	Emerillon (Tekó)	BIG				0		
 14440	Wayampí	BIG				0		
 14559	Zo'e	BIG				0		
-14678	(Urubu) Ka'apor	BIG	keruhu	keruhu	k e r u h u	0		
+14678	(Urubu) Ka'apor	BIG	keruhu	keruhu	k e r u h u	1		
 14797	Anambé	BIG				0		
 15035	Kamayura	BIG				0		
 15154	Asurini do Xingu	BIG				0		
@@ -588,7 +588,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17415	Cocama-Cocamilla	BIG				0		
 17581	Avá-Canoeiro	BIG				0		
 17681	Suruí-Paiter	BIG				0		
-17793	Tapiete	BIG	wasu	wasu	w a s u	0		
+17793	Tapiete	BIG	wasu	wasu	w a s u	1		
 8967	Xipaya	CAUSATIVE				0		
 9086	Juruna	CAUSATIVE				0		
 9205	Karo (Arara)	CAUSATIVE				0		
@@ -5219,14 +5219,14 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17009	Kaiowá	PAST				0		
 17128	Chiripá (Ñandeva / Avá-Guarani)	PAST				0		
 17247	Apapokuva of Nimuendajú	PAST				0		
-17485	Cocama-Cocamilla	PAST		=ui / =ikua / =tsuri(ai)		0		
+17485	Cocama-Cocamilla	PAST	ui	ui / ikua / tsuri(ai)	ui	0		
 17616	Avá-Canoeiro	PAST				0		
 17672	Suruí-Paiter	PAST	ja	ja / má	j a	0		
-17767	Tapiete	PAST		-kwe		0		
-18013	Awetí	PAST		-ta		0		
+17767	Tapiete	PAST	kwe	kwe	k w e	0		
+18013	Awetí	PAST	ta	ta	t a	0		
 18193	Karitiana	PAST				0		
-18296	Mekens (Sakurabiat)	PAST		-t / -r		0		
-18420	Omagua	PAST		=suri		0		
+18296	Mekens (Sakurabiat)	PAST	t	-t / -r	t	0		
+18420	Omagua	PAST	suri	suri	s u r i	0		
 18536	Gavião (Digüt)	PAST				0		
 9037	Xipaya	PERFECTIVE				0		
 9156	Juruna	PERFECTIVE				0		
@@ -5286,15 +5286,15 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17010	Kaiowá	PERFECTIVE				0		
 17129	Chiripá (Ñandeva / Avá-Guarani)	PERFECTIVE				0		
 17248	Apapokuva of Nimuendajú	PERFECTIVE				0		
-17486	Cocama-Cocamilla	PERFECTIVE		ai		0		
+17486	Cocama-Cocamilla	PERFECTIVE	ai	ai	ai	0		
 17617	Avá-Canoeiro	PERFECTIVE				0		
-17647	Suruí-Paiter	PERFECTIVE		dé / -jé		0		
+17647	Suruí-Paiter	PERFECTIVE	dé	dé / -jé	d é	0		
 17863	Tapiete	PERFECTIVE				0		
-18014	Awetí	PERFECTIVE		-zã / -ã		0		
-18194	Karitiana	PERFECTIVE		tykiri		0		
+18014	Awetí	PERFECTIVE	zã	zã / -ã	z ã	0		
+18194	Karitiana	PERFECTIVE	tɨkiri	tɨkiri	t ɨ k i r i	0		
 18297	Mekens (Sakurabiat)	PERFECTIVE				0		
 18421	Omagua	PERFECTIVE				0		
-18537	Gavião (Digüt)	PERFECTIVE		màh		0		auxiliary verb
+18537	Gavião (Digüt)	PERFECTIVE	màa	màa	m à a	0		auxiliary verb
 9038	Xipaya	PERMISSIVE MOOD				0		
 9157	Juruna	PERMISSIVE MOOD				0		
 9276	Karo (Arara)	PERMISSIVE MOOD				0		
@@ -5327,7 +5327,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 13441	Juma	PERMISSIVE MOOD				0		
 13560	Urueuwauwau	PERMISSIVE MOOD				0		
 13798	Kayabí	PERMISSIVE MOOD				0		
-13945	Araweté	PERMISSIVE MOOD		t / te		0		
+13945	Araweté	PERMISSIVE MOOD	t	t / te	t	0		
 14155	Guajá	PERMISSIVE MOOD				0		
 14393	Emerillon (Tekó)	PERMISSIVE MOOD	t	t ~ ta ~ te	t	0		
 14512	Wayampí	PERMISSIVE MOOD				0		
@@ -5356,8 +5356,8 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17487	Cocama-Cocamilla	PERMISSIVE MOOD				0		
 17618	Avá-Canoeiro	PERMISSIVE MOOD				0		
 17731	Suruí-Paiter	PERMISSIVE MOOD				0		
-17760	Tapiete	PERMISSIVE MOOD		-iño		0		
-18015	Awetí	PERMISSIVE MOOD		i- / jo- / pej-		0		
+17760	Tapiete	PERMISSIVE MOOD	iño	iño	i ñ o	0		
+18015	Awetí	PERMISSIVE MOOD	i	i- / jo- / pej-	i	0		
 18196	Karitiana	PERMISSIVE MOOD				0		
 18299	Mekens (Sakurabiat)	PERMISSIVE MOOD				0		
 18423	Omagua	PERMISSIVE MOOD				0		
@@ -5424,7 +5424,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17619	Avá-Canoeiro	PLURAL MARKER				0		
 17732	Suruí-Paiter	PLURAL MARKER				0		
 17785	Tapiete	PLURAL MARKER		-reta / -re		0		1 canot be plural
-18018	Awetí	PLURAL MARKER		-za		0		
+18018	Awetí	PLURAL MARKER	za	za	z a	0		
 18199	Karitiana	PLURAL MARKER				0		
 18302	Mekens (Sakurabiat)	PLURAL MARKER				0		
 18426	Omagua	PLURAL MARKER	kana	kana	k a n a	0		
@@ -7824,7 +7824,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 17192	Apapokuva of Nimuendajú	CROSSREFERENCE MARKER (2PL)				0		
 17566	Avá-Canoeiro	CROSSREFERENCE MARKER (2PL)	pe	pe-	p e	125		
 10159	Mekens (Sakurabiat)	ASSOCIATIVE	esẽp	esẽp	e s ẽ p	62	9	
-10640	Gavião (Digüt)	ASSOCIATIVE	tá	tá / itá	t á	0		
+10640	Gavião (Digüt)	ASSOCIATIVE	tá	tá / itá	t á	164		
 11587	Karitiana	ASSOCIATIVE				0		
 17302	Omagua	ASSOCIATIVE				0		
 10175	Mekens (Sakurabiat)	CONDITIONAL SUBORDINATOR	kaabese	kaabese	k aa b e s e	92	31	
@@ -8021,7 +8021,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 18284	Karitiana	ADJECTIVIZER	dna	dna	d n a	66		
 18387	Mekens (Sakurabiat)	ADJECTIVIZER	pit	pit	p i t	65	7	
 10630	Gavião (Digüt)	ADVERBIALIZER				0		
-11578	Karitiana	ADVERBIALIZER	t	t	t	0		
+11578	Karitiana	ADVERBIALIZER	t	t	t	158		
 11936	Awetí	ADVERBIALIZER	tem	tem	t e m	67		
 13839	Araweté	ADVERBIALIZER				0		
 17292	Omagua	ADVERBIALIZER				0		
@@ -8031,7 +8031,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 11937	Awetí	AFFECTIVE				0		
 13840	Araweté	AFFECTIVE				0		
 17293	Omagua	AFFECTIVE				0		
-17925	Cocama-Cocamilla	AFFECTIVE	tʃasu	tʃasu	tʃ a s u	0		
+17925	Cocama-Cocamilla	AFFECTIVE	tʃasu	tʃasu	tʃ a s u	159		
 10636	Gavião (Digüt)	ANDATIVE				0		
 11584	Karitiana	ANDATIVE				0		
 11942	Awetí	ANDATIVE				0		
@@ -8042,16 +8042,16 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 11944	Awetí	APPLICATIVE				0		
 13846	Araweté	APPLICATIVE				0		
 17299	Omagua	APPLICATIVE				0		
-17926	Cocama-Cocamilla	APPLICATIVE	tsupe	tsupe	ts u p e	0		
+17926	Cocama-Cocamilla	APPLICATIVE	tsupe	tsupe	ts u p e	161		
 10638	Gavião (Digüt)	APPREHENSIVE MODALITY				0		
 11586	Karitiana	APPREHENSIVE MODALITY				0		
 11945	Awetí	APPREHENSIVE MODALITY				0		
 13847	Araweté	APPREHENSIVE MODALITY				0		
 17300	Omagua	APPREHENSIVE MODALITY				0		
-17927	Cocama-Cocamilla	APPREHENSIVE MODALITY	era	era	e r a	0		
+17927	Cocama-Cocamilla	APPREHENSIVE MODALITY	era	era	e r a	162		
 10639	Gavião (Digüt)	ASSERTIVE	á	á	á	140		
 17301	Omagua	ASSERTIVE				0		
-18285	Karitiana	ASSERTIVE	pɨ	pɨ	p ɨ	0		
+18285	Karitiana	ASSERTIVE	pɨ	pɨ	p ɨ	163		
 18388	Mekens (Sakurabiat)	ASSERTIVE	ebõ	ebõ	e b õ	93	32	
 18653	Wayoró	ASSERTIVE	emõ	emõ	e m õ	93	32	
 10645	Gavião (Digüt)	CAUSATIVE (COMITATIVE)				0		
@@ -8131,7 +8131,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 12044	Awetí	IRREALIS	utepe	utepe / tutepe	u t e p e	0		
 12050	Awetí	MANNER				0		
 13942	Araweté	PARTICIPLE				0		
-17950	Cocama-Cocamilla	PARTICIPLE		-wa		0		
+17950	Cocama-Cocamilla	PARTICIPLE	wa	wa	w a	0		
 18012	Awetí	PARTICIPLE				0		
 18192	Karitiana	PARTICIPLE				0		
 18295	Mekens (Sakurabiat)	PARTICIPLE				0		
@@ -8437,9 +8437,13 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 18395	Mekens (Sakurabiat)	OBLIQUE		pe=		0		
 18416	Omagua	OBLIQUE				0		
 18531	Gavião (Digüt)	OBLIQUE				0		
-18011	Awetí	OPTATIVE		-tu / -tut		0		
-18522	Omagua	OPTATIVE		tina		0		
+18011	Awetí	OPTATIVE	tu	tu / tut	t u	0		
+18522	Omagua	OPTATIVE	tina	tina	t i n a	0		
 18533	Gavião (Digüt)	OPTATIVE				0		
+18721	Tupinambá	OPTATIVE	mo mã	mo mã / temo mã / meʔĩmo mã / meʔĩ mã	m o + m ã	168		mo in the second position, mã clause final
+18722	Tupinambá	OPTATIVE	temo mã 	mo mã / temo mã / meʔĩmo mã / meʔĩ mã	t e m o + m ã	168		temo in the second position, mã clause final
+18723	Tupinambá	OPTATIVE	meʔĩmo mã	mo mã / temo mã / meʔĩmo mã / meʔĩ mã	m e ʔ ĩ m o + m ã	169		meʔĩmo in the second position, mã clause final
+18724	Tupinambá	OPTATIVE	meʔĩ mã	mo mã / temo mã / meʔĩmo mã / meʔĩ mã	m e ʔ ĩ + m ã	169		meʔĩ in the second position, mã clause final
 18026	Awetí	POSSESSOR/INACTIVE (3S FEMALE SPEECH)	i	i / t / ta'i	i	0		
 18175	Araweté	POSSESSOR/INACTIVE (3S FEMALE SPEECH)				0		
 18209	Karitiana	POSSESSOR/INACTIVE (3S FEMALE SPEECH)				0		
@@ -8496,11 +8500,11 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 18356	Mekens (Sakurabiat)	RELATIONAL (GENERIC)				0		
 18482	Omagua	RELATIONAL (GENERIC)				0		
 18599	Gavião (Digüt)	RELATIONAL (GENERIC)				0		
-18177	Araweté	PERLATIVE CASE		-upi		0		
+18177	Araweté	PERLATIVE CASE	upi	upi	u p i	0		
 18195	Karitiana	PERLATIVE CASE				0		
 18298	Mekens (Sakurabiat)	PERLATIVE CASE				0		
 18422	Omagua	PERLATIVE CASE				0		
-18538	Gavião (Digüt)	PERLATIVE CASE		-mi		0		
+18538	Gavião (Digüt)	PERLATIVE CASE	mi	mi	m i	0		
 18185	Araweté	PROJECTIVE		ta		0		
 18218	Karitiana	PROJECTIVE				0		
 18321	Mekens (Sakurabiat)	PROJECTIVE				0		
@@ -8537,7 +8541,7 @@ TID	DOCULECT	CONCEPT	VALUE	FORM	SEGMENTS	COGID	COGIDS	NOTE
 18393	Mekens (Sakurabiat)	NON-FUTURE				0		
 18411	Omagua	NON-FUTURE				0		
 18526	Gavião (Digüt)	NON-FUTURE				0		
-18291	Karitiana	PASSIVE		-a		0		
+18291	Karitiana	PASSIVE	a	a	a	0		
 18394	Mekens (Sakurabiat)	PASSIVE				0		
 18419	Omagua	PASSIVE				0		
 18535	Gavião (Digüt)	PASSIVE	we	we	w e	0		
